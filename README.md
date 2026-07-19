@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Francis Wairagu
 
-I'm a **Data Scientist** from Kenya passionate about transforming data into actionable insights and building intelligent systems with machine learning and deep learning.
+I'm a **Data Scientist** from Nairobi, Kenya passionate about transforming data into actionable insights and building intelligent systems with machine learning and deep learning.
 
 I enjoy tackling real-world problems through data, whether it's predicting financial risk, building recommendation systems, or exploring neural networks. I'm constantly learning, experimenting, and sharing my work as I grow in the field of AI.
 
