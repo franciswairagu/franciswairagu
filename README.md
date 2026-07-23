@@ -26,6 +26,7 @@ I enjoy tackling real-world problems through data, whether it's predicting finan
 * Scikit-learn
 * XGBoost
 * TensorFlow
+* PyTorch
 * Keras
 
 ### Data Visualization
