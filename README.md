@@ -203,7 +203,7 @@ My interests include:
 ## 📫 Connect With Me
 
 * 💻 **GitHub:** [github.com/franciswairagu](https://github.com/franciswairagu)
-* 💼 **LinkedIn:** [linkedin.com/in/francis-wairagu-abaa35437](https://www.linkedin.com/in/francis-wairagu-abaa35437)
+* 💼 **LinkedIn:** [linkedin.com/in/francis-wairagu-abaa35437](https://www.linkedin.com/in/francis-wairagu)
 
 ---
 
